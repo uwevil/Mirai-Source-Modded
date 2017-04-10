@@ -20,9 +20,9 @@ apt-get install -y gcc golang electric-fence
 
 echo "Creating folder /etc/xcompile"
 mkdir /etc/xcompile
-cd ../cross-compile-bin
+cd /etc/xcompile
 echo "Delete all file in this folder"
-rm rf *
+rm -rf *
 
 echo
 echo "Download cross-compiler-armv4l.tar.bz2"
